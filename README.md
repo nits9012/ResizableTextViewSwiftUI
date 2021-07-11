@@ -5,7 +5,7 @@
 
 Here are the screenshots.
 
-<img src="ResizableTextView.png" width="400" height="700">
+<img src="ResizableTextView.png" width="800" height="500">
 
 
 I hope this will help you to understand how to make an resizable textview in iOS app using SwiftUI. Thank you
